@@ -1,2 +1,2 @@
 # SchoolProject1
-A project that me and my classmate will be working on using C#
+A project that me and my classmate will be/are working on, using C#
